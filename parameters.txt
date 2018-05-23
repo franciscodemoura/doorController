@@ -1,6 +1,6 @@
-botToken                     = 502511657:AAHvsYovy7m6go2ZMU-ubtTyDc30GD76J1Q
-doorGroupURL                 = https://api.telegram.org/bot502511657:AAHvsYovy7m6go2ZMU-ubtTyDc30GD76J1Q/sendMessage
-chatId                       = -299136144
+botToken                     = 999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+doorGroupURL                 = https://api.telegram.org/bot999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/sendMessage
+chatId                       = -999999999
 meetingPhrase                = Sou o portao B das garagens da casa do Chico
 allPasswordsCommandParameter = -todas
 dateStringFormat             = %d/%m/%Y-%H:%M
@@ -12,5 +12,5 @@ buttonKeyChannel             = 20
 buttonPressingTime           = 0.3
 maximumOpenTime              = 120
 broadcastRegisterTime        = 180
-adminIds                     = 388339580
+adminIds                     = 999999999
 invertKeyChannels            = True
