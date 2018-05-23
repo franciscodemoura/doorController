@@ -1,0 +1,16 @@
+botToken                     = 502511657:AAHvsYovy7m6go2ZMU-ubtTyDc30GD76J1Q
+doorGroupURL                 = https://api.telegram.org/bot502511657:AAHvsYovy7m6go2ZMU-ubtTyDc30GD76J1Q/sendMessage
+chatId                       = -299136144
+meetingPhrase                = Sou o portao B das garagens da casa do Chico
+allPasswordsCommandParameter = -todas
+dateStringFormat             = %d/%m/%Y-%H:%M
+dateReadableFormat           = DD/MM/YYYY-HH:MM
+nullDateSymbol               = X
+closedKeyChannel             = 14
+openKeyChannel               = 24
+buttonKeyChannel             = 20
+buttonPressingTime           = 0.3
+maximumOpenTime              = 120
+broadcastRegisterTime        = 180
+adminIds                     = 388339580
+invertKeyChannels            = True

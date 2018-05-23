@@ -1,0 +1,10 @@
+start        = start
+open         = abrir
+close        = fechar
+activate     = acionar
+status       = situacao
+stop         = stop
+def_password = defsenha
+password_ck  = senha?
+put_password = senha
+diagnosis    = diagnostico
